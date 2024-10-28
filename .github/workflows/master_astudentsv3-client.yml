@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'astudentsV3-client'
           slot-name: 'Production'
-          package: .
+          package: '..API/wwwroot'
           
